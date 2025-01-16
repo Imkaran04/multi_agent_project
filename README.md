@@ -1,14 +1,8 @@
-# multi_agent_project
- 
-Here is a comprehensive README file for the **Dynamic AI/ML Use Case Generator** project:
-
----
-
-# **Dynamic AI/ML Use Case Generator**
+# **Market Research and  AI/ML Use Case Generator**
 
 ## **Project Description**
 
-The **Dynamic AI/ML Use Case Generator** is an interactive web application that enables users to explore tailored AI/ML use cases and relevant industry insights for a given industry and optional focus area. This project simplifies market research and accelerates the ideation of AI/ML applications in diverse industries such as healthcare, finance, retail, and more.
+The **Market Research and  AI/ML Use Case Generator** is an interactive web application that enables users to explore tailored AI/ML use cases and relevant industry insights for a given industry and focus area (Optional). This project simplifies market research and accelerates the ideation of AI/ML applications in diverse industries such as healthcare, finance, retail, and more.
 
 ### **Features**
 - **Industry Research Insights**: Real-time fetching of industry trends and reports.
@@ -48,9 +42,7 @@ The **Dynamic AI/ML Use Case Generator** is an interactive web application that 
 ### **Steps**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/dynamic-aiml-use-case-generator.git
-   cd dynamic-aiml-use-case-generator
-   ```
+   [[git clone https://github.com/Imkaran04/multi_agent_project.git]
 
 2. **Install Dependencies**
    ```bash
@@ -95,8 +87,8 @@ The **Dynamic AI/ML Use Case Generator** is an interactive web application that 
 ## **Credits**
 
 ### **Team Members**
-- [Your Name](https://github.com/your-username) – Developer
-- Additional contributors (if any).
+- [Karan Singh](https://github.com/Imkaran04) – Developer
+
 
 ### **Acknowledgments**
 - **TAVILY API**: For providing industry research data.
@@ -147,7 +139,7 @@ User Input (Industry, Focus Area)
 
 ---
 
-## **Badges**
+#### **Badges**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.14%2B-orange)](https://streamlit.io/)  
@@ -187,4 +179,4 @@ To ensure the application functions as expected:
 
 ---
 
-This README is designed to provide detailed information about the project and guide users and contributors effectively. Let me know if you'd like further customization!
+## Thank you!
